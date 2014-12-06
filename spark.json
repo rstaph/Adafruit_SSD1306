@@ -1,0 +1,8 @@
+{
+  "name": "Adarfuit_SSD1306",
+  "author": "Adafruit, pkourany",
+  "license": "GNU GPLv3",
+  "version": "0.0.3",
+  "description": "An Implementation of Adafruit's SSD1306 Library",
+  "namespace": "Adafruit_SSD1306"
+}
