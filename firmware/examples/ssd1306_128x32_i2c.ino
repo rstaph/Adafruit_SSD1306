@@ -148,7 +148,7 @@ void setup()   {
 
   // miniature bitmap display
   display.clearDisplay();
-  display.drawBitmap(30, 16,  logo16_glcd_bmp, 16, 16, 1);
+  display.drawBitmap(30, 16,  LOGO16_GLCD_BMP, 16, 16, 1);
   display.display();
 
   // invert the display
